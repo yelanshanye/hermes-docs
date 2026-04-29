@@ -2,7 +2,6 @@
 
 > 一句话：把浏览器变成 AI 的遥控玩具。用户用自然语言下指令，AI 自动操控本地 Edge/Chrome。
 
-[![Skill](https://img.shields.io/badge/skill-browser--boss-blue)](https://skills.sh/yelanshanye/hermes-docs)
 [![Version](https://img.shields.io/badge/version-2.1.0-green)]()
 
 ## 快速开始
@@ -72,11 +71,7 @@ hermes-docs/
 
 ## 踩坑实录
 
-见 [references/pitfalls.md](./references/pitfalls.md)，记录了真实使用中遇到的 6 个问题和解决方案，包括：
-- 高层工具无 target_id 导致窗口冲突
-- Bing 返回空白页
-- CodeMirror 6 编辑器注入失败
-- 验证码 OCR 识别
+见 [references/pitfalls.md](./references/pitfalls.md)，记录了真实使用中遇到的 6 个问题和解决方案。
 
 ## License
 
